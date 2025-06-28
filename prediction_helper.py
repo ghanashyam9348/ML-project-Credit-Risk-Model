@@ -12,7 +12,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
 # Path to the saved model and scaler
-MODEL_PATH = '../artifacts/model_data.joblib'
+MODEL_PATH = 'artifacts/model_data.joblib'
 
 # Load trained model artifacts
 model_data = joblib.load(MODEL_PATH)
