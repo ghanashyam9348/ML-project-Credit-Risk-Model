@@ -2,6 +2,14 @@
 
 Welcome to the **Credit Risk Model** repository! This project leverages machine learning techniques to assess and predict the risk of credit default, helping financial institutions make informed lending decisions.
 
+---
+
+## 🔗 Demo
+
+👉 Try the live app here:  
+[** CrediSure - Credit Risk Model – Streamlit App**](https://credisure-credit-risk-model.streamlit.app/)
+
+---
 ## Table of Contents
 
 - [Project Overview](#project-overview)
