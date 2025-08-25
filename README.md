@@ -7,7 +7,7 @@ Welcome to the **Credit Risk Model** repository! This project leverages machine 
 ## 🔗 Demo
 
 👉 Try the live app here:  
-[** CrediSure - Credit Risk Model – Streamlit App**](https://credisure-credit-risk-model.streamlit.app/)
+[CrediSure - Credit Risk Model – Streamlit App](https://credisure-credit-risk-model.streamlit.app/)
 
 ---
 ## Table of Contents
